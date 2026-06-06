@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "locale": "zh-TW",
+    "type": "book",
+    "category": "career",
+    "total": 10
+  },
+  "data": [
+    {
+      "id": "df41f683-7bff-4abf-aa65-0b548c8dd30a",
+      "title": "Deep Work深度工作力：淺薄時代，個人成功的關鍵能力",
+      "author": "卡爾．紐波特",
+      "isbn": "9789571394725",
+      "coverImage": "/img/books/zh-TW/9789571394725.jpg",
+      "quote": "世界越淺薄分心，你的深度工作力就是超能力。它不在於你戰勝多少外在噪音，而在於你是否能戰勝內在誘惑，鑄就專注的卓越。",
+      "category": "Career",
+      "tags": ["深度工作", "專注力", "高效率"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010906940",
+        "eslite": "https://www.eslite.com/Search?keyword=Deep%20Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B%EF%BC%9A%E6%B7%BA%E8%96%84%E6%99%82%E4%BB%A3%EF%BC%8C%E5%80%8B%E4%BA%BA%E6%88%90%E5%8A%9F%E7%9A%84%E9%97%9C%E9%8D%B5%E8%83%BD%E5%8A%9B%E3%80%90%E6%9A%A2%E9%8A%B7%E6%96%B0%E8%A3%9D%E7%89%88%E3%80%91",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=Deep%20Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B%EF%BC%9A%E6%B7%BA%E8%96%84%E6%99%82%E4%BB%A3%EF%BC%8C%E5%80%8B%E4%BA%BA%E6%88%90%E5%8A%9F%E7%9A%84%E9%97%9C%E9%8D%B5%E8%83%BD%E5%8A%9B%E3%80%90%E6%9A%A2%E9%8A%B7%E6%96%B0%E8%A3%9D%E7%89%88%E3%80%91"
+      }
+    },
+    {
+      "id": "34bda6a2-6ece-41a9-a196-c43f12e511e4",
+      "title": "原子習慣：細微改變帶來巨大成就的實證法則",
+      "author": "詹姆斯‧克利爾",
+      "isbn": "9789861755267",
+      "coverImage": "/img/books/zh-TW/9789861755267.jpg",
+      "quote": "最動人的成長，不在於驚天動地的改變，而在於你是否願意，讓微小原子習慣，悄然重塑你的人生軌跡。",
+      "category": "Career",
+      "tags": ["習慣養成", "自我成長", "行為改變"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010822522",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3%EF%BC%9A%E7%B4%B0%E5%BE%AE%E6%94%B9%E8%AE%8A%E5%B8%B6%E4%BE%86%E5%B7%A8%E5%A4%A7%E6%88%90%E5%B0%B1%E7%9A%84%E5%AF%A6%E8%AD%89%E6%B3%95%E5%89%87",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%8E%9F%E5%AD%90%E7%BF%92%E6%85%A3%EF%BC%9A%E7%B4%B0%E5%BE%AE%E6%94%B9%E8%AE%8A%E5%B8%B6%E4%BE%86%E5%B7%A8%E5%A4%A7%E6%88%90%E5%B0%B1%E7%9A%84%E5%AF%A6%E8%AD%89%E6%B3%95%E5%89%87"
+      }
+    },
+    {
+      "id": "417a700b-5939-4d87-b82e-b2ebf454a871",
+      "title": "刻意練習：原創者全面解析，比天賦更關鍵的學習法",
+      "author": "安德斯‧艾瑞克森,",
+      "isbn": "9789861754604",
+      "coverImage": "/img/books/zh-TW/9789861754604.jpg",
+      "quote": "「天賦」的耀眼光芒終將黯淡，唯有「刻意練習」的雕琢，才能讓你淬鍊出永恆的卓越，成就巔峰。",
+      "category": "Career",
+      "tags": ["技能習得", "學習方法", "潛能開發"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010752714",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92%EF%BC%9A%E5%8E%9F%E5%89%B5%E8%80%85%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%8C%E6%AF%94%E5%A4%A9%E8%B3%A6%E6%9B%B4%E9%97%9C%E9%8D%B5%E7%9A%84%E5%AD%B8%E7%BF%92%E6%B3%95",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%88%BB%E6%84%8F%E7%B7%B4%E7%BF%92%EF%BC%9A%E5%8E%9F%E5%89%B5%E8%80%85%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%8C%E6%AF%94%E5%A4%A9%E8%B3%A6%E6%9B%B4%E9%97%9C%E9%8D%B5%E7%9A%84%E5%AD%B8%E7%BF%92%E6%B3%95"
+      }
+    },
+    {
+      "id": "dba27767-96e9-486a-a746-2052f63e55d7",
+      "title": "與成功有約：高效能人士的七個習慣",
+      "author": "史蒂芬‧柯維,",
+      "isbn": "9789865535667",
+      "coverImage": "/img/books/zh-TW/9789865535667.jpg",
+      "quote": "當外在世界變幻莫測，真正的力量不在追逐潮流，而在於由內而外建立七個習慣，重塑你人生的北極星。",
+      "category": "Career",
+      "tags": ["高效能", "自我成長", "人際溝通"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010874292",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%88%87%E6%88%90%E5%8A%9F%E6%9C%89%E7%B4%84%EF%BC%9A%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E5%80%8B%E7%BF%92%E6%85%A3%EF%BC%8830%E9%80%B1%E5%B9%B4%E5%85%A8%E6%96%B0%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%88%87%E6%88%90%E5%8A%9F%E6%9C%89%E7%B4%84%EF%BC%9A%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E5%80%8B%E7%BF%92%E6%85%A3%EF%BC%8830%E9%80%B1%E5%B9%B4%E5%85%A8%E6%96%B0%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89"
+      }
+    },
+    {
+      "id": "b3716829-968d-4043-8692-36e248bc6b1c",
+      "title": "好策略‧壞策略：第一本讓歐洲首席經濟學家欲罷不能、愛不釋手的策略書",
+      "author": "魯梅特",
+      "isbn": "9789863201540",
+      "coverImage": "/img/books/zh-TW/9789863201540.jpg",
+      "quote": "當空泛的願景淹沒了方向，唯有清晰地直指核心問題，才是真正讓企業逆轉勝的策略奇蹟。",
+      "category": "Career",
+      "tags": ["策略", "領導", "洞察"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010801932",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%A5%BD%E7%AD%96%E7%95%A5%E2%80%A7%E5%A3%9E%E7%AD%96%E7%95%A5%EF%BC%9A%E7%AC%AC%E4%B8%80%E6%9C%AC%E8%AE%93%E6%AD%90%E6%B4%B2%E9%A6%96%E5%B8%AD%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E6%AC%B2%E7%BD%B7%E4%B8%8D%E8%83%BD%E3%80%81%E6%84%9B%E4%B8%8D%E9%87%8B%E6%89%8B%E7%9A%84%E7%AD%96%E7%95%A5%E6%9B%B8",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%A5%BD%E7%AD%96%E7%95%A5%E2%80%A7%E5%A3%9E%E7%AD%96%E7%95%A5%EF%BC%9A%E7%AC%AC%E4%B8%80%E6%9C%AC%E8%AE%93%E6%AD%90%E6%B4%B2%E9%A6%96%E5%B8%AD%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E6%AC%B2%E7%BD%B7%E4%B8%8D%E8%83%BD%E3%80%81%E6%84%9B%E4%B8%8D%E9%87%8B%E6%89%8B%E7%9A%84%E7%AD%96%E7%95%A5%E6%9B%B8"
+      }
+    },
+    {
+      "id": "98c5b0fb-490b-4152-bb8f-8df7e10a2351",
+      "title": "什麼才是經營最難的事？矽谷創投天王告訴你真實的管理智慧",
+      "author": "本．霍羅維茲",
+      "isbn": "9789864795567",
+      "coverImage": "/img/books/zh-TW/9789864795567.jpg",
+      "quote": "經營事業，美夢易織，難在當現實惡夢來襲、你孤獨面對所有困境時，能否戰勝心魔，在絕望中找到那絲絕處逢生的微光。",
+      "category": "Career",
+      "tags": ["經營", "領導", "創業"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010802878",
+        "eslite": "https://www.eslite.com/Search?keyword=%E4%BB%80%E9%BA%BC%E6%89%8D%E6%98%AF%E7%B6%93%E7%87%9F%E6%9C%80%E9%9B%A3%E7%9A%84%E4%BA%8B%EF%BC%9F%EF%BC%9A%E7%9F%BD%E8%B0%B7%E5%89%B5%E6%8A%95%E5%A4%A9%E7%8E%8B%E5%91%8A%E8%A8%B4%E4%BD%A0%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%AE%A1%E7%90%86%E6%99%BA%E6%85%A7",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E4%BB%80%E9%BA%BC%E6%89%8D%E6%98%AF%E7%B6%93%E7%87%9F%E6%9C%80%E9%9B%A3%E7%9A%84%E4%BA%8B%EF%BC%9F%EF%BC%9A%E7%9F%BD%E8%B0%B7%E5%89%B5%E6%8A%95%E5%A4%A9%E7%8E%8B%E5%91%8A%E8%A8%B4%E4%BD%A0%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%AE%A1%E7%90%86%E6%99%BA%E6%85%A7"
+      }
+    },
+    {
+      "id": "3aa391e1-635f-45b6-87c3-0a88af6f4e5f",
+      "title": "OKR：做最重要的事",
+      "author": "約翰‧杜爾",
+      "isbn": "9789864796335",
+      "coverImage": "/img/books/zh-TW/9789864796335.jpg",
+      "quote": "別讓宏大願景只停留在腦海，OKR猶如地圖，將遙不可及的夢想，化為步步為營、引領團隊航向成功的指南針。",
+      "category": "Career",
+      "tags": ["目標管理", "高效執行", "團隊領導"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010813170",
+        "eslite": "https://www.eslite.com/Search?keyword=OKR%EF%BC%9A%E5%81%9A%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=OKR%EF%BC%9A%E5%81%9A%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B"
+      }
+    },
+    {
+      "id": "3413f1dc-be5e-4d0d-a65f-757bc00f1a17",
+      "title": "搞定！：工作效率大師教你:事情再多照樣做好的搞定 5 步驟",
+      "author": "大衛‧艾倫",
+      "isbn": "9789869340571",
+      "coverImage": "/img/books/zh-TW/9789869340571.jpg",
+      "quote": "真正的高效不是疲於奔命，而是心如止水般清明，讓每一步都精準且從容。",
+      "category": "Career",
+      "tags": ["時間管理", "高效工作", "減壓生活"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010731198",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%90%9E%E5%AE%9A%EF%BC%81%EF%BC%9A%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E5%A4%A7%E5%B8%AB%E6%95%99%E4%BD%A0%3A%E4%BA%8B%E6%83%85%E5%86%8D%E5%A4%9A%E7%85%A7%E6%A8%A3%E5%81%9A%E5%A5%BD%E7%9A%84%E6%90%9E%E5%AE%9A5%E6%AD%A5%E9%A9%9F",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%90%9E%E5%AE%9A%EF%BC%81%EF%BC%9A%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E5%A4%A7%E5%B8%AB%E6%95%99%E4%BD%A0%3A%E4%BA%8B%E6%83%85%E5%86%8D%E5%A4%9A%E7%85%A7%E6%A8%A3%E5%81%9A%E5%A5%BD%E7%9A%84%E6%90%9E%E5%AE%9A5%E6%AD%A5%E9%A9%9F"
+      }
+    },
+    {
+      "id": "40d26026-87ae-465c-be28-771a7473d83d",
+      "title": "零規則：高人才密度x完全透明x最低管控，首度完整直擊 Netflix 圈粉全球的關鍵祕密",
+      "author": "里德‧海斯汀,",
+      "isbn": "9789863986102",
+      "coverImage": "/img/books/zh-TW/9789863986102.jpg",
+      "quote": "當傳統企業依循規則與階級束縛，害怕犯錯時，Netflix卻敢於打破所有規矩，給予人才極致自由與責任，讓混亂邊緣激盪出驚人創新與績效。",
+      "category": "Career",
+      "tags": ["企業文化", "自由責任", "高效團隊"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010873975",
+        "eslite": "https://www.eslite.com/Search?keyword=%E9%9B%B6%E8%A6%8F%E5%89%87%EF%BC%9A%E9%AB%98%E4%BA%BA%E6%89%8D%E5%AF%86%E5%BA%A6x%E5%AE%8C%E5%85%A8%E9%80%8F%E6%98%8Ex%E6%9C%80%E4%BD%8E%E7%AE%A1%E6%8E%A7%EF%BC%8C%E9%A6%96%E5%BA%A6%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%93%8ANetflix%E5%9C%88%E7%B2%89%E5%85%A8%E7%90%83%E7%9A%84%E9%97%9C%E9%8D%B5%E7%A5%95%E5%AF%86",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E9%9B%B6%E8%A6%8F%E5%89%87%EF%BC%9A%E9%AB%98%E4%BA%BA%E6%89%8D%E5%AF%86%E5%BA%A6x%E5%AE%8C%E5%85%A8%E9%80%8F%E6%98%8Ex%E6%9C%80%E4%BD%8E%E7%AE%A1%E6%8E%A7%EF%BC%8C%E9%A6%96%E5%BA%A6%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%93%8ANetflix%E5%9C%88%E7%B2%89%E5%85%A8%E7%90%83%E7%9A%84%E9%97%9C%E9%8D%B5%E7%A5%95%E5%AF%86"
+      }
+    },
+    {
+      "id": "c503c3b7-2b9c-4a57-87e0-601adfefa202",
+      "title": "從A到A+：企業從優秀到卓越的奧祕",
+      "author": "詹姆．柯林斯",
+      "isbn": "9789573287032",
+      "coverImage": "/img/books/zh-TW/9789573287032.jpg",
+      "quote": "優秀是卓越之敵。最大的挑戰，不是打敗競爭者，而是超越那個滿足於「還不錯」的自己，不斷淬鍊，直抵巔峰。",
+      "category": "Career",
+      "tags": ["企業", "領導", "卓越"],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010845587",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%BE%9EA%E5%88%B0A%2B%EF%BC%9A%E4%BC%81%E6%A5%AD%E5%BE%9E%E5%84%AA%E7%A7%80%E5%88%B0%E5%8D%93%E8%B6%8A%E7%9A%84%E5%A5%A7%E7%A5%95%EF%BC%88%E6%9A%A2%E9%8A%B7%E6%96%B0%E8%A3%9D%E7%89%88%EF%BC%89",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%BE%9EA%E5%88%B0A%2B%EF%BC%9A%E4%BC%81%E6%A5%AD%E5%BE%9E%E5%84%AA%E7%A7%80%E5%88%B0%E5%8D%93%E8%B6%8A%E7%9A%84%E5%A5%A7%E7%A5%95%EF%BC%88%E6%9A%A2%E9%8A%B7%E6%96%B0%E8%A3%9D%E7%89%88%EF%BC%89"
+      }
+    }
+  ]
+}

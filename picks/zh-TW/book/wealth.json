@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "locale": "zh-TW",
+    "type": "book",
+    "category": "wealth",
+    "total": 10
+  },
+  "data": [
+    {
+      "id": "4b69ab20-3011-49fc-9f7b-69f32cb9903a",
+      "title": "富爸爸，窮爸爸",
+      "author": "羅勃特．T．清崎",
+      "isbn": "9789865064679",
+      "coverImage": "/img/books/zh-TW/9789865064679.jpg",
+      "quote": "窮人一生為錢而工作，如同困於迷宮；富人讓錢為己工作，才是通往自由的黃金地圖。",
+      "category": "Wealth",
+      "tags": [
+        "財務自由",
+        "投資理財",
+        "思維致富"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010935466",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%AF%8C%E7%88%B8%E7%88%B8%EF%BC%8C%E7%AA%AE%E7%88%B8%E7%88%B8%E3%80%9025%E9%80%B1%E5%B9%B4%E7%B4%80%E5%BF%B5%E7%89%88%E3%80%91",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%AF%8C%E7%88%B8%E7%88%B8%EF%BC%8C%E7%AA%AE%E7%88%B8%E7%88%B8%E3%80%9025%E9%80%B1%E5%B9%B4%E7%B4%80%E5%BF%B5%E7%89%88%E3%80%91"
+      }
+    },
+    {
+      "id": "7cb16988-d6d6-46a4-ac17-19cadad93f9c",
+      "title": "小狗錢錢",
+      "author": "博多‧薛弗",
+      "isbn": "9789573299929",
+      "coverImage": "/img/books/zh-TW/9789573299929.jpg",
+      "quote": "馴服金錢，不只是為了擁有更多，更是為了讓人生擺脫枷鎖，擁抱真正的富足與自由，活出你應得的精彩。",
+      "category": "Wealth",
+      "tags": [
+        "理財",
+        "財富自由",
+        "金錢觀"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010952531",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%B0%8F%E7%8B%97%E9%8C%A2%E9%8C%A2%EF%BC%9A%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B7500%E8%90%AC%E5%86%8A%EF%BC%81%E5%BE%B7%E5%9C%8B%E7%89%88%E3%80%8A%E5%AF%8C%E7%88%B8%E7%88%B8%EF%BC%8C%E7%AA%AE%E7%88%B8%E7%88%B8%E3%80%8B%EF%BC%88%E9%99%84%E8%B4%88%E5%85%A8%E5%BD%A9%E5%BF%83%E6%99%BA%E5%B0%8E%E5%9C%96%E6%8B%89%E9%A0%81%EF%BC%89",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%B0%8F%E7%8B%97%E9%8C%A2%E9%8C%A2%EF%BC%9A%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B7500%E8%90%AC%E5%86%8A%EF%BC%81%E5%BE%B7%E5%9C%8B%E7%89%88%E3%80%8A%E5%AF%8C%E7%88%B8%E7%88%B8%EF%BC%8C%E7%AA%AE%E7%88%B8%E7%88%B8%E3%80%8B%EF%BC%88%E9%99%84%E8%B4%88%E5%85%A8%E5%BD%A9%E5%BF%83%E6%99%BA%E5%B0%8E%E5%9C%96%E6%8B%89%E9%A0%81%EF%BC%89"
+      }
+    },
+    {
+      "id": "202217f7-d4ee-41d1-abd2-4fa679baa4cc",
+      "title": "致富心態：關於財富、貪婪與幸福的20堂理財課",
+      "author": "摩根．豪瑟",
+      "isbn": "9786264177917",
+      "coverImage": "/img/books/zh-TW/9786264177917.jpg",
+      "quote": "財富的終極祕密，不在精密的算計，而在樸實的心態；它考驗的不是你賺錢的本事，而是駕馭人性貪婪與恐懼的智慧。",
+      "category": "Wealth",
+      "tags": [
+        "致富",
+        "理財",
+        "心態"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011043967",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%87%B4%E5%AF%8C%E5%BF%83%E6%85%8B%EF%BC%88%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B7%E5%8D%83%E8%90%AC%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89%EF%BC%9A%E9%97%9C%E6%96%BC%E8%B2%A1%E5%AF%8C%E3%80%81%E8%B2%AA%E5%A9%AA%E8%88%87%E5%B9%B8%E7%A6%8F%E7%9A%8420%E5%A0%82%E7%90%86%E8%B2%A1%E8%AA%B2",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%87%B4%E5%AF%8C%E5%BF%83%E6%85%8B%EF%BC%88%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B7%E5%8D%83%E8%90%AC%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89%EF%BC%9A%E9%97%9C%E6%96%BC%E8%B2%A1%E5%AF%8C%E3%80%81%E8%B2%AA%E5%A9%AA%E8%88%87%E5%B9%B8%E7%A6%8F%E7%9A%8420%E5%A0%82%E7%90%86%E8%B2%A1%E8%AA%B2"
+      }
+    },
+    {
+      "id": "04bbe767-0eb1-4f9b-8a31-306906c8d203",
+      "title": "漫步華爾街：超越股市漲跌的成功投資策略",
+      "author": "墨基爾",
+      "isbn": "9786263551886",
+      "coverImage": "/img/books/zh-TW/9786263551886.jpg",
+      "quote": "華爾街的喧囂引誘你追逐熱潮，但真正的財富，卻在不為所動的「漫步」中悄然累積。",
+      "category": "Wealth",
+      "tags": [
+        "指數投資",
+        "財富累積",
+        "長期策略"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010955845",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%BC%AB%E6%AD%A5%E8%8F%AF%E7%88%BE%E8%A1%97%EF%BC%8850%E9%80%B1%E5%B9%B4%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89%EF%BC%9A%E8%B6%85%E8%B6%8A%E8%82%A1%E5%B8%82%E6%BC%B2%E8%B7%8C%E7%9A%84%E6%88%90%E5%8A%9F%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%BC%AB%E6%AD%A5%E8%8F%AF%E7%88%BE%E8%A1%97%EF%BC%8850%E9%80%B1%E5%B9%B4%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89%EF%BC%9A%E8%B6%85%E8%B6%8A%E8%82%A1%E5%B8%82%E6%BC%B2%E8%B7%8C%E7%9A%84%E6%88%90%E5%8A%9F%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5"
+      }
+    },
+    {
+      "id": "b4dcb7b9-a4ef-40cc-94da-f441425e7338",
+      "title": "巴菲特寫給股東的信",
+      "author": "華倫．巴菲特,",
+      "isbn": "9786263743816",
+      "coverImage": "/img/books/zh-TW/9786263743816.jpg",
+      "quote": "人聲鼎沸處，皆為追逐浮華的泡沫；真正的財富，不在交易喧囂，而在於靜心洞察企業的真實價值。",
+      "category": "Wealth",
+      "tags": [
+        "價值投資",
+        "企業經營",
+        "財富智慧"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010971666",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%AF%AB%E7%B5%A6%E8%82%A1%E6%9D%B1%E7%9A%84%E4%BF%A1%E3%80%942023%E5%85%A8%E6%96%B0%E5%A2%9E%E4%BF%AE%E7%89%88%E3%80%95",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%AF%AB%E7%B5%A6%E8%82%A1%E6%9D%B1%E7%9A%84%E4%BF%A1%E3%80%942023%E5%85%A8%E6%96%B0%E5%A2%9E%E4%BF%AE%E7%89%88%E3%80%95"
+      }
+    },
+    {
+      "id": "849a0b55-8e53-4b5b-84ed-0e0727a49d29",
+      "title": "金錢心理學：打破你對金錢的迷思，學會聰明花費",
+      "author": "丹．艾瑞利,",
+      "isbn": "9786264174701",
+      "coverImage": "/img/books/zh-TW/9786264174701.jpg",
+      "quote": "你以為錢是理性工具，殊不知每次花費都是心理戰場。擺脫金錢的奴役，唯有看清內心，才能奪回財富主權。",
+      "category": "Wealth",
+      "tags": [
+        "金錢觀",
+        "行為經濟",
+        "消費心理"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011034698",
+        "eslite": "https://www.eslite.com/Search?keyword=%E9%87%91%E9%8C%A2%E5%BF%83%E7%90%86%E5%AD%B8%EF%BC%88%E6%9A%A2%E9%8A%B7%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89%EF%BC%9A%E6%89%93%E7%A0%B4%E4%BD%A0%E5%B0%8D%E9%87%91%E9%8C%A2%E7%9A%84%E8%BF%B7%E6%80%9D%EF%BC%8C%E5%AD%B8%E6%9C%83%E8%81%B0%E6%98%8E%E8%8A%B1%E8%B2%BB",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E9%87%91%E9%8C%A2%E5%BF%83%E7%90%86%E5%AD%B8%EF%BC%88%E6%9A%A2%E9%8A%B7%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89%EF%BC%9A%E6%89%93%E7%A0%B4%E4%BD%A0%E5%B0%8D%E9%87%91%E9%8C%A2%E7%9A%84%E8%BF%B7%E6%80%9D%EF%BC%8C%E5%AD%B8%E6%9C%83%E8%81%B0%E6%98%8E%E8%8A%B1%E8%B2%BB"
+      }
+    },
+    {
+      "id": "2d7381f2-d925-446b-8c41-527bc120a682",
+      "title": "有錢人想的和你不一樣",
+      "author": "T. Harv Eker",
+      "isbn": "9789867291813",
+      "coverImage": "/img/books/zh-TW/9789867291813.jpg",
+      "quote": "你以為在追逐金錢，其實你只是在追逐舊有的自己。打碎窮人藍圖，才能活出富裕人生。",
+      "category": "Wealth",
+      "tags": [
+        "金錢藍圖",
+        "致富思維",
+        "財務自由"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010316121",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%9C%89%E9%8C%A2%E4%BA%BA%E6%83%B3%E7%9A%84%E5%92%8C%E4%BD%A0%E4%B8%8D%E4%B8%80%E6%A8%A3",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%9C%89%E9%8C%A2%E4%BA%BA%E6%83%B3%E7%9A%84%E5%92%8C%E4%BD%A0%E4%B8%8D%E4%B8%80%E6%A8%A3"
+      }
+    },
+    {
+      "id": "3fa2498b-b812-4de9-8cd3-c85d820a5504",
+      "title": "投資最重要的事：一本股神巴菲特讀了兩遍的書",
+      "author": "霍華．馬克斯",
+      "isbn": "9789869422642",
+      "coverImage": "/img/books/zh-TW/9789869422642.jpg",
+      "quote": "當眾人只見浮光掠影，你卻潛入深海。投資的勝敗，不在盲從，而在洞察第二層思考，駕馭市場真實的暗流。",
+      "category": "Wealth",
+      "tags": [
+        "深度思考",
+        "價值投資",
+        "反向投資"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010744933",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%8A%95%E8%B3%87%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%EF%BC%9A%E4%B8%80%E6%9C%AC%E8%82%A1%E7%A5%9E%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%AE%80%E4%BA%86%E5%85%A9%E9%81%8D%E7%9A%84%E6%9B%B8",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%8A%95%E8%B3%87%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%EF%BC%9A%E4%B8%80%E6%9C%AC%E8%82%A1%E7%A5%9E%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%AE%80%E4%BA%86%E5%85%A9%E9%81%8D%E7%9A%84%E6%9B%B8"
+      }
+    },
+    {
+      "id": "3341a619-b2ec-4414-91f3-cbac6264139c",
+      "title": "習慣致富：成為有錢人，你不需要富爸爸，只需要富習慣",
+      "author": "湯姆．柯利,",
+      "isbn": "9789573286523",
+      "coverImage": "/img/books/zh-TW/9789573286523.jpg",
+      "quote": "你兩手空空，不是因為運氣不濟，而是你未曾為自己編寫富習慣的DNA；致富，就從改寫思維開始。",
+      "category": "Wealth",
+      "tags": [
+        "富習慣",
+        "致富思維",
+        "財務自由"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010834368",
+        "eslite": "https://www.eslite.com/Search?keyword=%E7%BF%92%E6%85%A3%E8%87%B4%E5%AF%8C%EF%BC%9A%E6%88%90%E7%82%BA%E6%9C%89%E9%8C%A2%E4%BA%BA%EF%BC%8C%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%AF%8C%E7%88%B8%E7%88%B8%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E5%AF%8C%E7%BF%92%E6%85%A3",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E7%BF%92%E6%85%A3%E8%87%B4%E5%AF%8C%EF%BC%9A%E6%88%90%E7%82%BA%E6%9C%89%E9%8C%A2%E4%BA%BA%EF%BC%8C%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%AF%8C%E7%88%B8%E7%88%B8%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E5%AF%8C%E7%BF%92%E6%85%A3"
+      }
+    },
+    {
+      "id": "35c0226f-c8a2-4fa2-9e77-d5879ad25d7c",
+      "title": "巴比倫理財聖經：穩健創富的12項金律，影響超過數百萬名讀者的致富經典",
+      "author": "喬治．山繆．克拉森",
+      "isbn": "9789865511371",
+      "coverImage": "/img/books/zh-TW/9789865511371.jpg",
+      "quote": "致富的終極祕密，不在外在機運，而在於你是否能駕馭自身慾望，將今日薪水轉化為明日財富的僕人。",
+      "category": "Wealth",
+      "tags": [
+        "理財",
+        "紀律",
+        "致富"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010870934",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%B7%B4%E6%AF%94%E5%80%AB%E7%90%86%E8%B2%A1%E8%81%96%E7%B6%93%EF%BC%9A%E7%A9%A9%E5%81%A5%E5%89%B5%E5%AF%8C%E7%9A%8412%E9%A0%85%E9%87%91%E5%BE%8B%EF%BC%8C%E5%BD%B1%E9%9F%BF%E8%B6%85%E9%81%8E%E6%95%B8%E7%99%BE%E8%90%AC%E5%90%8D%E8%AE%80%E8%80%85%E7%9A%84%E8%87%B4%E5%AF%8C%E7%B6%93%E5%85%B8",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%B7%B4%E6%AF%94%E5%80%AB%E7%90%86%E8%B2%A1%E8%81%96%E7%B6%93%EF%BC%9A%E7%A9%A9%E5%81%A5%E5%89%B5%E5%AF%8C%E7%9A%8412%E9%A0%85%E9%87%91%E5%BE%8B%EF%BC%8C%E5%BD%B1%E9%9F%BF%E8%B6%85%E9%81%8E%E6%95%B8%E7%99%BE%E8%90%AC%E5%90%8D%E8%AE%80%E8%80%85%E7%9A%84%E8%87%B4%E5%AF%8C%E7%B6%93%E5%85%B8"
+      }
+    }
+  ]
+}

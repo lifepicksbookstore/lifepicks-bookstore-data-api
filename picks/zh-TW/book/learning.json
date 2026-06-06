@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "locale": "zh-TW",
+    "type": "book",
+    "category": "learning",
+    "total": 10
+  },
+  "data": [
+    {
+      "id": "a54acb44-7e89-4a19-ab3a-f859096104af",
+      "title": "快思慢想",
+      "author": "康納曼",
+      "isbn": "9789863200611",
+      "coverImage": "/img/books/zh-TW/9789863200611.jpg",
+      "quote": "我們與生俱來的直覺，既是睿智的嚮導，也是偏見的陷阱；真正的智慧，在於駕馭而非盲從。",
+      "category": "Learning",
+      "tags": [
+        "思考模式",
+        "決策",
+        "認知偏誤"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010962486",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%BF%AB%E6%80%9D%E6%85%A2%E6%83%B3%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%BF%AB%E6%80%9D%E6%85%A2%E6%83%B3%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89"
+      }
+    },
+    {
+      "id": "3c6ff63a-312e-40c7-a7f8-b5d436e81739",
+      "title": "超速學習：我這樣做，一個月學會素描，一年學會四種語言，完成MIT四年課程",
+      "author": "史考特‧楊",
+      "isbn": "9789861755533",
+      "coverImage": "/img/books/zh-TW/9789861755533.jpg",
+      "quote": "學習的賽道上，天賦決定起跑線，方法才是終點線。別再等待天賦，超速學習讓你重新定義可能，掌握人生的自主權！",
+      "category": "Learning",
+      "tags": [
+        "學習策略",
+        "技能習得",
+        "高效精進"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010855836",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%B6%85%E9%80%9F%E5%AD%B8%E7%BF%92%EF%BC%9A%E6%88%91%E9%80%99%E6%A8%A3%E5%81%9A%EF%BC%8C%E4%B8%80%E5%80%8B%E6%9C%88%E5%AD%B8%E6%9C%83%E7%B4%A0%E6%8F%8F%EF%BC%8C%E4%B8%80%E5%B9%B4%E5%AD%B8%E6%9C%83%E5%9B%9B%E7%A8%AE%E8%AA%9E%E8%A8%80%EF%BC%8C%E5%AE%8C%E6%88%90MIT%E5%9B%9B%E5%B9%B4%E8%AA%B2%E7%A8%8B",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%B6%85%E9%80%9F%E5%AD%B8%E7%BF%92%EF%BC%9A%E6%88%91%E9%80%99%E6%A8%A3%E5%81%9A%EF%BC%8C%E4%B8%80%E5%80%8B%E6%9C%88%E5%AD%B8%E6%9C%83%E7%B4%A0%E6%8F%8F%EF%BC%8C%E4%B8%80%E5%B9%B4%E5%AD%B8%E6%9C%83%E5%9B%9B%E7%A8%AE%E8%AA%9E%E8%A8%80%EF%BC%8C%E5%AE%8C%E6%88%90MIT%E5%9B%9B%E5%B9%B4%E8%AA%B2%E7%A8%8B"
+      }
+    },
+    {
+      "id": "d48e3ed7-28da-4e08-8a00-c4c6f4c93845",
+      "title": "窮查理的普通常識：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
+      "author": "查理．蒙格",
+      "isbn": "9786267366882",
+      "coverImage": "/img/books/zh-TW/9786267366882.jpg",
+      "quote": "當世人汲汲營營追逐金錢，窮查理卻引領你反思。他深知，人生的真正致勝之道，不在於追尋高深理論，而在於回歸普通常識的淬鍊，避開愚蠢的陷阱。",
+      "category": "Learning",
+      "tags": [
+        "價值投資",
+        "思維模型",
+        "人生智慧"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010987407",
+        "eslite": "https://www.eslite.com/Search?keyword=%E7%AA%AE%E6%9F%A5%E7%90%86%E7%9A%84%E6%99%AE%E9%80%9A%E5%B8%B8%E8%AD%98%EF%BC%88%E7%B4%80%E5%BF%B5%E5%85%B8%E8%97%8F%E7%89%88%EF%BC%89%EF%BC%9A%E5%B7%B4%E8%8F%B2%E7%89%B950%E5%B9%B4%E6%99%BA%E6%85%A7%E5%90%88%E5%A4%A5%E4%BA%BA%E6%9F%A5%E7%90%86%EF%BC%8E%E8%92%99%E6%A0%BC%E7%9A%84%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%B8",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E7%AA%AE%E6%9F%A5%E7%90%86%E7%9A%84%E6%99%AE%E9%80%9A%E5%B8%B8%E8%AD%98%EF%BC%88%E7%B4%80%E5%BF%B5%E5%85%B8%E8%97%8F%E7%89%88%EF%BC%89%EF%BC%9A%E5%B7%B4%E8%8F%B2%E7%89%B950%E5%B9%B4%E6%99%BA%E6%85%A7%E5%90%88%E5%A4%A5%E4%BA%BA%E6%9F%A5%E7%90%86%EF%BC%8E%E8%92%99%E6%A0%BC%E7%9A%84%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%B8"
+      }
+    },
+    {
+      "id": "e74dc1fa-c2c1-4b37-b894-46b8b4dd90cf",
+      "title": "如何閱讀一本書",
+      "author": "莫提默‧艾德勒,",
+      "isbn": "9789570530629",
+      "coverImage": "/img/books/zh-TW/9789570530629.jpg",
+      "quote": "閱讀不該只是被動地接收文字，而是主動地叩問生命、與智者對談，讓文字在心靈深處綻放智慧之花。",
+      "category": "Learning",
+      "tags": [
+        "閱讀技巧",
+        "批判思考",
+        "心智成長"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010736991",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%A6%82%E4%BD%95%E9%96%B1%E8%AE%80%E4%B8%80%E6%9C%AC%E6%9B%B8%E3%80%90%E8%87%BA%E7%81%A3%E5%95%86%E5%8B%9970%E9%80%B1%E5%B9%B4%E5%85%B8%E8%97%8F%E7%B4%80%E5%BF%B5%E7%89%88%E3%80%91(%E4%B8%89%E7%89%88)",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%A6%82%E4%BD%95%E9%96%B1%E8%AE%80%E4%B8%80%E6%9C%AC%E6%9B%B8%E3%80%90%E8%87%BA%E7%81%A3%E5%95%86%E5%8B%9970%E9%80%B1%E5%B9%B4%E5%85%B8%E8%97%8F%E7%B4%80%E5%BF%B5%E7%89%88%E3%80%91(%E4%B8%89%E7%89%88)"
+      }
+    },
+    {
+      "id": "b8cf5ec0-bf05-4a7a-a8b9-3073024ae84a",
+      "title": "異數：超凡與平凡的界線在哪裡？",
+      "author": "麥爾坎．葛拉威爾",
+      "isbn": "9789571382890",
+      "coverImage": "/img/books/zh-TW/9789571382890.jpg",
+      "quote": "成功的果實，不只由汗水澆灌；它更深植於看不見的土壤，由機遇、文化與時勢共同滋養，顛覆你對超凡的想像。",
+      "category": "Learning",
+      "tags": [
+        "成功迷思",
+        "機會論",
+        "文化影響"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010865776",
+        "eslite": "https://www.eslite.com/Search?keyword=%E7%95%B0%E6%95%B8%EF%BC%9A%E8%B6%85%E5%87%A1%E8%88%87%E5%B9%B3%E5%87%A1%E7%9A%84%E7%95%8C%E7%B7%9A%E5%9C%A8%E5%93%AA%E8%A3%A1%EF%BC%9F%20%EF%BC%88%E6%9A%A2%E9%8A%B7%E6%85%B6%E5%8A%9F%E7%89%88%EF%BC%89",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E7%95%B0%E6%95%B8%EF%BC%9A%E8%B6%85%E5%87%A1%E8%88%87%E5%B9%B3%E5%87%A1%E7%9A%84%E7%95%8C%E7%B7%9A%E5%9C%A8%E5%93%AA%E8%A3%A1%EF%BC%9F%20%EF%BC%88%E6%9A%A2%E9%8A%B7%E6%85%B6%E5%8A%9F%E7%89%88%EF%BC%89"
+      }
+    },
+    {
+      "id": "8655d14a-0918-4cc3-aa2b-ebe726167c68",
+      "title": "心態致勝：全新成功心理學",
+      "author": "卡蘿．杜維克",
+      "isbn": "9789864791897",
+      "coverImage": "/img/books/zh-TW/9789864791897.jpg",
+      "quote": "真正的枷鎖，不在於你擁有的天賦，而在於你對天賦的界定；真正的自由，始於對潛能的無限想像。",
+      "category": "Learning",
+      "tags": [
+        "成長心態",
+        "潛能開發",
+        "思維轉換"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010968342",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%BF%83%E6%85%8B%E8%87%B4%E5%8B%9D%EF%BC%9A%E5%85%A8%E6%96%B0%E6%88%90%E5%8A%9F%E5%BF%83%E7%90%86%E5%AD%B8",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%BF%83%E6%85%8B%E8%87%B4%E5%8B%9D%EF%BC%9A%E5%85%A8%E6%96%B0%E6%88%90%E5%8A%9F%E5%BF%83%E7%90%86%E5%AD%B8"
+      }
+    },
+    {
+      "id": "bb721644-345f-49ba-9129-a173a99c327a",
+      "title": "卡片盒筆記：最高效思考筆記術，德國教授超強秘技，促進寫作、學習與思考，使你洞見源源不斷，成為專家",
+      "author": "申克‧艾倫斯",
+      "isbn": "9789573295082",
+      "coverImage": "/img/books/zh-TW/9789573295082.jpg",
+      "quote": "筆記的最高境界，不在於海量堆疊，而在於連結思想的卡片盒，讓知識有機生長，碰撞出源源不絕的獨到洞見。",
+      "category": "Learning",
+      "tags": [
+        "卡片盒",
+        "知識管理",
+        "深度思考"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010922143",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%EF%BC%9A%E6%9C%80%E9%AB%98%E6%95%88%E6%80%9D%E8%80%83%E7%AD%86%E8%A8%98%E8%A1%93%EF%BC%8C%E5%BE%B7%E5%9C%8B%E6%95%99%E6%8E%88%E8%B6%85%E5%BC%B7%E7%A7%98%E6%8A%80%EF%BC%8C%E4%BF%83%E9%80%B2%E5%AF%AB%E4%BD%9C%E3%80%81%E5%AD%B8%E7%BF%92%E8%88%87%E6%80%9D%E8%80%83%EF%BC%8C%E4%BD%BF%E4%BD%A0%E6%B4%9E%E8%A6%8B%E6%BA%90%E6%BA%90%E4%B8%8D%E6%96%B7%EF%BC%8C%E6%88%90%E7%82%BA%E5%B0%88%E5%AE%B6",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%EF%BC%9A%E6%9C%80%E9%AB%98%E6%95%88%E6%80%9D%E8%80%83%E7%AD%86%E8%A8%98%E8%A1%93%EF%BC%8C%E5%BE%B7%E5%9C%8B%E6%95%99%E6%8E%88%E8%B6%85%E5%BC%B7%E7%A7%98%E6%8A%80%EF%BC%8C%E4%BF%83%E9%80%B2%E5%AF%AB%E4%BD%9C%E3%80%81%E5%AD%B8%E7%BF%92%E8%88%87%E6%80%9D%E8%80%83%EF%BC%8C%E4%BD%BF%E4%BD%A0%E6%B4%9E%E8%A6%8B%E6%BA%90%E6%BA%90%E4%B8%8D%E6%96%B7%EF%BC%8C%E6%88%90%E7%82%BA%E5%B0%88%E5%AE%B6"
+      }
+    },
+    {
+      "id": "9b286698-6e0b-4d4b-87d2-2024d1a36598",
+      "title": "反脆弱：脆弱的反義詞不是堅強，是反脆弱",
+      "author": "納西姆．尼可拉斯．塔雷伯",
+      "isbn": "9789862134467",
+      "coverImage": "/img/books/zh-TW/9789862134467.jpg",
+      "quote": "世人畏懼混亂，你卻擁抱變動；別人求穩不變，你卻從每次震盪中淬煉更強大，成就一次次的重生。",
+      "category": "Learning",
+      "tags": [
+        "反脆弱",
+        "不確定性",
+        "思維模型"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010590630",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%8F%8D%E8%84%86%E5%BC%B1%EF%BC%9A%E8%84%86%E5%BC%B1%E7%9A%84%E5%8F%8D%E7%BE%A9%E8%A9%9E%E4%B8%8D%E6%98%AF%E5%A0%85%E5%BC%B7%EF%BC%8C%E6%98%AF%E5%8F%8D%E8%84%86%E5%BC%B1",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%8F%8D%E8%84%86%E5%BC%B1%EF%BC%9A%E8%84%86%E5%BC%B1%E7%9A%84%E5%8F%8D%E7%BE%A9%E8%A9%9E%E4%B8%8D%E6%98%AF%E5%A0%85%E5%BC%B7%EF%BC%8C%E6%98%AF%E5%8F%8D%E8%84%86%E5%BC%B1"
+      }
+    },
+    {
+      "id": "f500bff3-575e-4635-9b45-457afe976afd",
+      "title": "學習如何學習：給青少年的大腦特訓課，讓你學什麼都會、記憶力升級、告別拖拖拉拉，考試拿高分！",
+      "author": "芭芭拉‧歐克莉,",
+      "isbn": "9789863596585",
+      "coverImage": "/img/books/zh-TW/9789863596585.jpg",
+      "quote": "學習真正的考驗，不在於你有多麼努力，而在於你是否懂得聆聽大腦的聲音，讓它為你所用，而非與你抗衡。",
+      "category": "Learning",
+      "tags": [
+        "學習技巧",
+        "大腦運作",
+        "高效學習"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010818129",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E5%AD%B8%E7%BF%92%EF%BC%9A%E7%B5%A6%E9%9D%92%E5%B0%91%E5%B9%B4%E7%9A%84%E5%A4%A7%E8%85%A6%E7%89%B9%E8%A8%93%E8%AA%B2%EF%BC%8C%E8%AE%93%E4%BD%A0%E5%AD%B8%E4%BB%80%E9%BA%BC%E9%83%BD%E6%9C%83%E3%80%81%E8%A8%98%E6%86%B6%E5%8A%9B%E5%8D%87%E7%B4%9A%E3%80%81%E5%91%8A%E5%88%A5%E6%8B%96%E6%8B%96%E6%8B%89%E6%8B%89%EF%BC%8C%E8%80%83%E8%A9%A6%E6%8B%BF%E9%AB%98%E5%88%86%EF%BC%81",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E5%AD%B8%E7%BF%92%EF%BC%9A%E7%B5%A6%E9%9D%92%E5%B0%91%E5%B9%B4%E7%9A%84%E5%A4%A7%E8%85%A6%E7%89%B9%E8%A8%93%E8%AA%B2%EF%BC%8C%E8%AE%93%E4%BD%A0%E5%AD%B8%E4%BB%80%E9%BA%BC%E9%83%BD%E6%9C%83%E3%80%81%E8%A8%98%E6%86%B6%E5%8A%9B%E5%8D%87%E7%B4%9A%E3%80%81%E5%91%8A%E5%88%A5%E6%8B%96%E6%8B%96%E6%8B%89%E6%8B%89%EF%BC%8C%E8%80%83%E8%A9%A6%E6%8B%BF%E9%AB%98%E5%88%86%EF%BC%81"
+      }
+    },
+    {
+      "id": "21a7c059-fc22-4076-bac6-43b4c546458f",
+      "title": "自學力就是你的超能力：從技能堆疊到能力變現，你所有的投入都不會徒勞無功",
+      "author": "派特‧福林",
+      "isbn": "9789571384528",
+      "coverImage": "/img/books/zh-TW/9789571384528.jpg",
+      "quote": "單一專精或許讓你登峰，但多重技能堆疊，才是你航向廣闊人生的自由之舟。",
+      "category": "Learning",
+      "tags": [
+        "技能堆疊",
+        "自學成長",
+        "職涯發展"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010876095",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%87%AA%E5%AD%B8%E5%8A%9B%E5%B0%B1%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%EF%BC%9A%E5%BE%9E%E6%8A%80%E8%83%BD%E5%A0%86%E7%96%8A%E5%88%B0%E8%83%BD%E5%8A%9B%E8%AE%8A%E7%8F%BE%EF%BC%8C%E4%BD%A0%E6%89%80%E6%9C%89%E7%9A%84%E6%8A%95%E5%85%A5%E9%83%BD%E4%B8%8D%E6%9C%83%E5%BE%92%E5%8B%9E%E7%84%A1%E5%8A%9F",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%87%AA%E5%AD%B8%E5%8A%9B%E5%B0%B1%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%EF%BC%9A%E5%BE%9E%E6%8A%80%E8%83%BD%E5%A0%86%E7%96%8A%E5%88%B0%E8%83%BD%E5%8A%9B%E8%AE%8A%E7%8F%BE%EF%BC%8C%E4%BD%A0%E6%89%80%E6%9C%89%E7%9A%84%E6%8A%95%E5%85%A5%E9%83%BD%E4%B8%8D%E6%9C%83%E5%BE%92%E5%8B%9E%E7%84%A1%E5%8A%9F"
+      }
+    }
+  ]
+}

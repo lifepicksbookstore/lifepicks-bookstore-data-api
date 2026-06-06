@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "locale": "zh-TW",
+    "type": "book",
+    "category": "self-discovery",
+    "total": 11
+  },
+  "data": [
+    {
+      "id": "9feb6de4-fc29-4135-892f-aafd143c712c",
+      "title": "深夜加油站遇見蘇格拉底",
+      "author": "丹．米爾曼",
+      "isbn": "9789863572367",
+      "coverImage": "/img/books/zh-TW/9789863572367.jpg",
+      "quote": "最動人的英雄之旅，不在於他打贏多少外在敵人和怪獸。而在於他終是否戰勝自己、認識自己。",
+      "category": "Self-Discovery",
+      "tags": [
+        "自我探索",
+        "心靈成長",
+        "生命意義"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010920950",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%B7%B1%E5%A4%9C%E5%8A%A0%E6%B2%B9%E7%AB%99%E9%81%87%E8%A6%8B%E8%98%87%E6%A0%BC%E6%8B%89%E5%BA%95%E3%80%90%E5%85%A8%E6%96%B0%E4%BF%AE%E8%A8%82%E7%89%88%E3%80%91",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%B7%B1%E5%A4%9C%E5%8A%A0%E6%B2%B9%E7%AB%99%E9%81%87%E8%A6%8B%E8%98%87%E6%A0%BC%E6%8B%89%E5%BA%95%E3%80%90%E5%85%A8%E6%96%B0%E4%BF%AE%E8%A8%82%E7%89%88%E3%80%91"
+      }
+    },
+    {
+      "id": "84c62be5-5fd4-4e10-8dda-54bf21505dea",
+      "title": "活出意義來：從集中營說到存在主義",
+      "author": "弗蘭克",
+      "isbn": "9789575467210",
+      "coverImage": "/img/books/zh-TW/9789575467210.jpg",
+      "quote": "當一切都被剝奪，人生的終極自由，不在於你還擁有什麼，而在於你選擇以何種態度，為生命賦予意義。",
+      "category": "Self-Discovery",
+      "tags": [
+        "意義治療",
+        "存在抉擇",
+        "生命意義"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010408890",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%B4%BB%E5%87%BA%E6%84%8F%E7%BE%A9%E4%BE%86%EF%BC%9A%E5%BE%9E%E9%9B%86%E4%B8%AD%E7%87%9F%E8%AA%AA%E5%88%B0%E5%AD%98%E5%9C%A8%E4%B8%BB%E7%BE%A9",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%B4%BB%E5%87%BA%E6%84%8F%E7%BE%A9%E4%BE%86%EF%BC%9A%E5%BE%9E%E9%9B%86%E4%B8%AD%E7%87%9F%E8%AA%AA%E5%88%B0%E5%AD%98%E5%9C%A8%E4%B8%BB%E7%BE%A9"
+      }
+    },
+    {
+      "id": "bbd3286b-bf6b-4836-8d33-81e68defa357",
+      "title": "做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖",
+      "author": "比爾‧柏內特,",
+      "isbn": "9789862137505",
+      "coverImage": "/img/books/zh-TW/9789862137505.jpg",
+      "quote": "人生不是等著被答案定義的考卷，而是充滿無限可能，由你親手繪製的生命藍圖。",
+      "category": "Self-Discovery",
+      "tags": [
+        "設計思考",
+        "職涯規劃",
+        "人生藍圖"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010733134",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E5%91%BD%E8%A8%AD%E8%A8%88%E5%B8%AB%EF%BC%9A%E5%8F%B2%E4%B8%B9%E4%BD%9B%E6%9C%80%E5%A4%AF%E7%9A%84%E7%94%9F%E6%B6%AF%E8%A6%8F%E7%95%AB%E8%AA%B2%EF%BC%8C%E7%94%A8%E3%80%8C%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83%E3%80%8D%E9%87%8D%E6%93%AC%E5%95%8F%E9%A1%8C%EF%BC%8C%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B0%E7%94%9F%E5%91%BD%E8%97%8D%E5%9C%96",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E5%91%BD%E8%A8%AD%E8%A8%88%E5%B8%AB%EF%BC%9A%E5%8F%B2%E4%B8%B9%E4%BD%9B%E6%9C%80%E5%A4%AF%E7%9A%84%E7%94%9F%E6%B6%AF%E8%A6%8F%E7%95%AB%E8%AA%B2%EF%BC%8C%E7%94%A8%E3%80%8C%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83%E3%80%8D%E9%87%8D%E6%93%AC%E5%95%8F%E9%A1%8C%EF%BC%8C%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B0%E7%94%9F%E5%91%BD%E8%97%8D%E5%9C%96"
+      }
+    },
+    {
+      "id": "c858b049-a1d9-4b14-8d19-ca00f1484ac2",
+      "title": "被討厭的勇氣：自我啟發之父「阿德勒」的教導",
+      "author": "岸見一郎,",
+      "isbn": "9789861371955",
+      "coverImage": "/img/books/zh-TW/9789861371955.jpg",
+      "quote": "人生最大的監牢，是活在他人的眼光裡。唯有擁有被討厭的勇氣，才能掙脫束縛，奔向真正的自由。",
+      "category": "Self-Discovery",
+      "tags": [
+        "阿德勒",
+        "勇氣",
+        "人際關係"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010653153",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%A2%AB%E8%A8%8E%E5%8E%AD%E7%9A%84%E5%8B%87%E6%B0%A3%EF%BC%9A%E8%87%AA%E6%88%91%E5%95%9F%E7%99%BC%E4%B9%8B%E7%88%B6%E3%80%8C%E9%98%BF%E5%BE%B7%E5%8B%92%E3%80%8D%E7%9A%84%E6%95%99%E5%B0%8E",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%A2%AB%E8%A8%8E%E5%8E%AD%E7%9A%84%E5%8B%87%E6%B0%A3%EF%BC%9A%E8%87%AA%E6%88%91%E5%95%9F%E7%99%BC%E4%B9%8B%E7%88%B6%E3%80%8C%E9%98%BF%E5%BE%B7%E5%8B%92%E3%80%8D%E7%9A%84%E6%95%99%E5%B0%8E"
+      }
+    },
+    {
+      "id": "32dea7b6-5d05-4155-b800-83ac0827f63e",
+      "title": "覺醒的你：暢銷百萬，歐普拉的床頭靈修書",
+      "author": "麥克‧辛格",
+      "isbn": "9789861754888",
+      "coverImage": "/img/books/zh-TW/9789861754888.jpg",
+      "quote": "當你不再與內在喋喋不休的幻象搏鬥，真正的你便能從枷鎖中覺醒，活出無條件的自由。",
+      "category": "Self-Discovery",
+      "tags": [
+        "靈性覺醒",
+        "內在平靜",
+        "自我觀照"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010779724",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%A6%BA%E9%86%92%E7%9A%84%E4%BD%A0%EF%BC%9A%E6%9A%A2%E9%8A%B7%E7%99%BE%E8%90%AC%EF%BC%8C%E6%AD%90%E6%99%AE%E6%8B%89%E7%9A%84%E5%BA%8A%E9%A0%AD%E9%9D%88%E4%BF%AE%E6%9B%B8",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%A6%BA%E9%86%92%E7%9A%84%E4%BD%A0%EF%BC%9A%E6%9A%A2%E9%8A%B7%E7%99%BE%E8%90%AC%EF%BC%8C%E6%AD%90%E6%99%AE%E6%8B%89%E7%9A%84%E5%BA%8A%E9%A0%AD%E9%9D%88%E4%BF%AE%E6%9B%B8"
+      }
+    },
+    {
+      "id": "076aaab7-d402-48cf-8609-492ddfcca819",
+      "title": "牧羊少年奇幻之旅",
+      "author": "保羅．科爾賀",
+      "isbn": "9789571395661",
+      "coverImage": "/img/books/zh-TW/9789571395661.jpg",
+      "quote": "真正的寶藏不在遠方，而在你勇敢追尋夢想後，才發現它始終深藏於心。",
+      "category": "Self-Discovery",
+      "tags": [
+        "夢想追尋",
+        "自我探索",
+        "心靈成長"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010904947",
+        "eslite": "https://www.eslite.com/Search?keyword=%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85%E3%80%90%E7%B9%AA%E5%9C%96%E6%9C%AC%E3%80%91%EF%BC%88%E5%9C%A8%E5%8F%B0%E6%9A%A2%E9%8A%B750%E8%90%AC%E5%86%8A%E7%B4%80%E5%BF%B5%E7%89%88%EF%BC%89",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85%E3%80%90%E7%B9%AA%E5%9C%96%E6%9C%AC%E3%80%91%EF%BC%88%E5%9C%A8%E5%8F%B0%E6%9A%A2%E9%8A%B750%E8%90%AC%E5%86%8A%E7%B4%80%E5%BF%B5%E7%89%88%EF%BC%89"
+      }
+    },
+    {
+      "id": "7a937863-770d-47f4-90ae-443d46608cc7",
+      "title": "自在感的練習：你可以不要活成別人期待的樣子",
+      "author": "岸見一郎",
+      "isbn": "9786264176194",
+      "coverImage": "/img/books/zh-TW/9786264176194.jpg",
+      "quote": "不是非得成為與眾不同的煙火，而是在接納平凡的日常中，點亮內心最堅定的光芒。",
+      "category": "Self-Discovery",
+      "tags": [
+        "自在",
+        "阿德勒",
+        "自我價值"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011034336",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%87%AA%E5%9C%A8%E6%84%9F%E7%9A%84%E7%B7%B4%E7%BF%92%EF%BC%9A%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%A6%81%E6%B4%BB%E6%88%90%E5%88%A5%E4%BA%BA%E6%9C%9F%E5%BE%85%E7%9A%84%E6%A8%A3%E5%AD%90",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%87%AA%E5%9C%A8%E6%84%9F%E7%9A%84%E7%B7%B4%E7%BF%92%EF%BC%9A%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%A6%81%E6%B4%BB%E6%88%90%E5%88%A5%E4%BA%BA%E6%9C%9F%E5%BE%85%E7%9A%84%E6%A8%A3%E5%AD%90"
+      }
+    },
+    {
+      "id": "326d6a22-adb3-4f9c-a3bd-e0a58ea4f57b",
+      "title": "靈魂的出生前計畫：你與生命最勇敢的約定",
+      "author": "羅伯特．舒華茲",
+      "isbn": "9789861753027",
+      "coverImage": "/img/books/zh-TW/9789861753027.jpg",
+      "quote": "苦難並非天降的懲罰，而是靈魂勇敢的預約；它不是你的詛咒，而是你蛻變的契機。",
+      "category": "Self-Discovery",
+      "tags": [
+        "靈魂計畫",
+        "生命意義",
+        "靈性成長"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010579749",
+        "eslite": "https://www.eslite.com/Search?keyword=%E9%9D%88%E9%AD%82%E7%9A%84%E5%87%BA%E7%94%9F%E5%89%8D%E8%A8%88%E7%95%AB%EF%BC%9A%E4%BD%A0%E8%88%87%E7%94%9F%E5%91%BD%E6%9C%80%E5%8B%87%E6%95%A2%E7%9A%84%E7%B4%84%E5%AE%9A",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E9%9D%88%E9%AD%82%E7%9A%84%E5%87%BA%E7%94%9F%E5%89%8D%E8%A8%88%E7%95%AB%EF%BC%9A%E4%BD%A0%E8%88%87%E7%94%9F%E5%91%BD%E6%9C%80%E5%8B%87%E6%95%A2%E7%9A%84%E7%B4%84%E5%AE%9A"
+      }
+    },
+    {
+      "id": "9a835839-f9f7-4f6b-ab95-7990e6154f77",
+      "title": "轉變之書：結束，是重生的起點",
+      "author": "威廉．布瑞奇,",
+      "isbn": "9789869800587",
+      "coverImage": "/img/books/zh-TW/9789869800587.jpg",
+      "quote": "當熟悉的世界崩塌，焦慮並非解藥，放下昨日執著，才能在斷層中靜候新生，讓內在轉變帶你走向真正的自由。",
+      "category": "Self-Discovery",
+      "tags": [
+        "生命轉變",
+        "內在成長",
+        "重新開始"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010859874",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%BD%89%E8%AE%8A%E4%B9%8B%E6%9B%B8(40%E9%80%B1%E5%B9%B4%E5%A2%9E%E4%BF%AE%E7%89%88)%20%E7%B5%90%E6%9D%9F%EF%BC%8C%E6%98%AF%E9%87%8D%E7%94%9F%E7%9A%84%E8%B5%B7%E9%BB%9E",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%BD%89%E8%AE%8A%E4%B9%8B%E6%9B%B8(40%E9%80%B1%E5%B9%B4%E5%A2%9E%E4%BF%AE%E7%89%88)%20%E7%B5%90%E6%9D%9F%EF%BC%8C%E6%98%AF%E9%87%8D%E7%94%9F%E7%9A%84%E8%B5%B7%E9%BB%9E"
+      }
+    },
+    {
+      "id": "0844ec50-d1b3-4a7f-8f8e-d668b0c66e40",
+      "title": "內向心理學【I 人必讀・全球暢銷經典】：享受一個人的空間，安靜地發揮影響力，內向者也能在外向的世界嶄露鋒芒",
+      "author": "瑪蒂．蘭妮",
+      "isbn": "9789864899746",
+      "coverImage": "/img/books/zh-TW/9789864899746.jpg",
+      "quote": "當世界喧囂向外，內向者轉向內在。真正的光芒，不是向外散射，而是從心底深處靜靜綻放。",
+      "category": "Self-Discovery",
+      "tags": [
+        "內向特質",
+        "自我認同",
+        "人際策略"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010998363",
+        "eslite": "https://www.eslite.com/Search?keyword=%E5%85%A7%E5%90%91%E5%BF%83%E7%90%86%E5%AD%B8%E3%80%90i%E4%BA%BA%E5%BF%85%E8%AE%80%E3%83%BB%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B7%E7%B6%93%E5%85%B8%E3%80%91%EF%BC%9A%E4%BA%AB%E5%8F%97%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E7%A9%BA%E9%96%93%EF%BC%8C%E5%AE%89%E9%9D%9C%E5%9C%B0%E7%99%BC%E6%8F%AE%E5%BD%B1%E9%9F%BF%E5%8A%9B%EF%BC%8C%E5%85%A7%E5%90%91%E8%80%85%E4%B9%9F%E8%83%BD%E5%9C%A8%E5%A4%96%E5%90%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%B6%84%E9%9C%B2%E9%8B%92%E8%8A%92",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E5%85%A7%E5%90%91%E5%BF%83%E7%90%86%E5%AD%B8%E3%80%90i%E4%BA%BA%E5%BF%85%E8%AE%80%E3%83%BB%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B7%E7%B6%93%E5%85%B8%E3%80%91%EF%BC%9A%E4%BA%AB%E5%8F%97%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E7%A9%BA%E9%96%93%EF%BC%8C%E5%AE%89%E9%9D%9C%E5%9C%B0%E7%99%BC%E6%8F%AE%E5%BD%B1%E9%9F%BF%E5%8A%9B%EF%BC%8C%E5%85%A7%E5%90%91%E8%80%85%E4%B9%9F%E8%83%BD%E5%9C%A8%E5%A4%96%E5%90%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%B6%84%E9%9C%B2%E9%8B%92%E8%8A%92"
+      }
+    },
+    {
+      "id": "a06ea6e9-12a3-41c8-a791-20cb995a791c",
+      "title": "脆弱的力量",
+      "author": "布芮尼．布朗",
+      "isbn": "9786267520420",
+      "coverImage": "/img/books/zh-TW/9786267520420.jpg",
+      "quote": "我們以為脆弱是生命的裂縫，卻不知它是通往真實力量與深刻連結的唯一孔道。",
+      "category": "Self-Discovery",
+      "tags": [
+        "脆弱",
+        "勇氣",
+        "內在力量"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011009553",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%84%86%E5%BC%B1%E7%9A%84%E5%8A%9B%E9%87%8F%E3%80%90%E5%9C%A8%E5%8F%B0%E7%99%BC%E8%A1%8C%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E5%85%B8%E8%97%8F%E7%89%88%E3%80%91",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%84%86%E5%BC%B1%E7%9A%84%E5%8A%9B%E9%87%8F%E3%80%90%E5%9C%A8%E5%8F%B0%E7%99%BC%E8%A1%8C%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E5%85%B8%E8%97%8F%E7%89%88%E3%80%91"
+      }
+    }
+  ]
+}

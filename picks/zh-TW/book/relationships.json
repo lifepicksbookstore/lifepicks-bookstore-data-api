@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "locale": "zh-TW",
+    "type": "book",
+    "category": "relationships",
+    "total": 10
+  },
+  "data": [
+    {
+      "id": "8a828327-570e-41e3-bf32-401e5eb3484e",
+      "title": "愛之語：永遠相愛的祕訣",
+      "author": "蓋瑞．巧門",
+      "isbn": "9789575508661",
+      "coverImage": "/img/books/zh-TW/9789575508661.jpg",
+      "quote": "愛不是你付出了多少，而是對方接收了多少。當你用自己的『愛語』傾訴，對方卻聽不懂，再多的真心也只是空谷迴音。真正的親密，始於學會說懂彼此的『愛之語』。",
+      "category": "Relationships",
+      "tags": [
+        "婚姻",
+        "溝通",
+        "親密"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010958194",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%84%9B%E4%B9%8B%E8%AA%9E%EF%BC%9A%E6%B0%B8%E9%81%A0%E7%9B%B8%E6%84%9B%E7%9A%84%E7%A5%95%E8%A8%A3(%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B730%E9%80%B1%E5%B9%B4%E5%85%A8%E6%96%B0%E4%B8%AD%E6%96%87%E7%89%88)",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%84%9B%E4%B9%8B%E8%AA%9E%EF%BC%9A%E6%B0%B8%E9%81%A0%E7%9B%B8%E6%84%9B%E7%9A%84%E7%A5%95%E8%A8%A3(%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B730%E9%80%B1%E5%B9%B4%E5%85%A8%E6%96%B0%E4%B8%AD%E6%96%87%E7%89%88)"
+      }
+    },
+    {
+      "id": "ae94c3bd-c688-4ca6-a03a-6b5bf849fa87",
+      "title": "依戀理論三部曲1：依附",
+      "author": "約翰‧鮑比",
+      "isbn": "9789570487299",
+      "coverImage": "/img/books/zh-TW/9789570487299.jpg",
+      "quote": "最深刻的愛與痛，源於最初的依附。當童年的連結斷裂，成年後的每段關係，都成了療癒與重生的戰場。",
+      "category": "Relationships",
+      "tags": [
+        "依附理論",
+        "親子關係",
+        "安全感"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010859225",
+        "eslite": "https://www.eslite.com/Search?keyword=%E4%BE%9D%E6%88%80%E7%90%86%E8%AB%96%E4%B8%89%E9%83%A8%E6%9B%B21%EF%BC%9A%E4%BE%9D%E9%99%84%E3%80%90%E5%BF%83%E7%90%86%E5%AD%B8%E9%9D%A9%E5%91%BD%E6%80%A7%E7%B6%93%E5%85%B8%E9%89%85%E8%91%97%EF%BC%8C%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88%E9%A6%96%E5%BA%A6%E9%9D%A2%E5%B8%82%E3%80%91",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E4%BE%9D%E6%88%80%E7%90%86%E8%AB%96%E4%B8%89%E9%83%A8%E6%9B%B21%EF%BC%9A%E4%BE%9D%E9%99%84%E3%80%90%E5%BF%83%E7%90%86%E5%AD%B8%E9%9D%A9%E5%91%BD%E6%80%A7%E7%B6%93%E5%85%B8%E9%89%85%E8%91%97%EF%BC%8C%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88%E9%A6%96%E5%BA%A6%E9%9D%A2%E5%B8%82%E3%80%91"
+      }
+    },
+    {
+      "id": "ff5f4e16-9aa4-4e86-9e98-8b2e9de7534b",
+      "title": "非暴力溝通：愛的語言",
+      "author": "馬歇爾．盧森堡",
+      "isbn": "9789575469078",
+      "coverImage": "/img/books/zh-TW/9789575469078.jpg",
+      "quote": "最動人的力量，不在於你如何駁倒對方，而在於你如何以真誠連結彼此，將語言從傷人的武器轉化為愛的橋樑。",
+      "category": "Relationships",
+      "tags": [
+        "溝通",
+        "情商",
+        "連結"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010831754",
+        "eslite": "https://www.eslite.com/Search?keyword=%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%BA%9D%E9%80%9A%EF%BC%9A%E6%84%9B%E7%9A%84%E8%AA%9E%E8%A8%80(%E5%85%A8%E6%96%B0%E4%BF%AE%E8%A8%82%E7%89%88)",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%BA%9D%E9%80%9A%EF%BC%9A%E6%84%9B%E7%9A%84%E8%AA%9E%E8%A8%80(%E5%85%A8%E6%96%B0%E4%BF%AE%E8%A8%82%E7%89%88)"
+      }
+    },
+    {
+      "id": "89772786-bb0e-4e1e-99b7-a6802630cca5",
+      "title": "伴侶溝通的奇蹟：鞏固親密關係的對話練習",
+      "author": "喬納森．羅賓森",
+      "isbn": "9789861374901",
+      "coverImage": "/img/books/zh-TW/9789861374901.jpg",
+      "quote": "最痛的，不是無話可說；而是有話說不清，讓愛在誤解中窒息。溝通的奇蹟，在於重啟心靈的連結。",
+      "category": "Relationships",
+      "tags": [
+        "溝通技巧",
+        "親密關係",
+        "化解衝突"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011030238",
+        "eslite": "https://www.eslite.com/Search?keyword=%E4%BC%B4%E4%BE%B6%E6%BA%9D%E9%80%9A%E7%9A%84%E5%A5%87%E8%B9%9F%EF%BC%9A%E9%9E%8F%E5%9B%BA%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82%E7%9A%84%E5%B0%8D%E8%A9%B1%E7%B7%B4%E7%BF%92",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E4%BC%B4%E4%BE%B6%E6%BA%9D%E9%80%9A%E7%9A%84%E5%A5%87%E8%B9%9F%EF%BC%9A%E9%9E%8F%E5%9B%BA%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82%E7%9A%84%E5%B0%8D%E8%A9%B1%E7%B7%B4%E7%BF%92"
+      }
+    },
+    {
+      "id": "b1c26792-d90b-44cc-94a3-961813d446e1",
+      "title": "擺脫有毒父母，學會好好愛自己：走出家庭創傷，重啟自我療癒",
+      "author": "喬許・康諾利",
+      "isbn": "9786267774151",
+      "coverImage": "/img/books/zh-TW/9786267774151.jpg",
+      "quote": "你不是破碎的，只是被遺忘的星星；最深刻的療癒，在於停止取悅他人，重新點亮自己的宇宙。",
+      "category": "Relationships",
+      "tags": [
+        "家庭創傷",
+        "自我療癒",
+        "內在小孩"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011037273",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%93%BA%E8%84%AB%E6%9C%89%E6%AF%92%E7%88%B6%E6%AF%8D%EF%BC%8C%E5%AD%B8%E6%9C%83%E5%A5%BD%E5%A5%BD%E6%84%9B%E8%87%AA%E5%B7%B1%EF%BC%9A%E8%B5%B0%E5%87%BA%E5%AE%B6%E5%BA%AD%E5%89%B5%E5%82%B7%EF%BC%8C%E9%87%8D%E5%95%9F%E8%87%AA%E6%88%91%E7%99%82%E7%99%92",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%93%BA%E8%84%AB%E6%9C%89%E6%AF%92%E7%88%B6%E6%AF%8D%EF%BC%8C%E5%AD%B8%E6%9C%83%E5%A5%BD%E5%A5%BD%E6%84%9B%E8%87%AA%E5%B7%B1%EF%BC%9A%E8%B5%B0%E5%87%BA%E5%AE%B6%E5%BA%AD%E5%89%B5%E5%82%B7%EF%BC%8C%E9%87%8D%E5%95%9F%E8%87%AA%E6%88%91%E7%99%82%E7%99%92"
+      }
+    },
+    {
+      "id": "ac161242-2658-46dc-9079-b6cebf2bf01b",
+      "title": "高難度溝通：麻省理工最熱門的溝通課，在對立的世界裡，如何善用溝通打破僵局",
+      "author": "傑森．傑伊,",
+      "isbn": "9789863775157",
+      "coverImage": "/img/books/zh-TW/9789863775157.jpg",
+      "quote": "高難度溝通的關鍵，不在於如何征服對手，而在於能否穿越內在偏見，將對話從僵局轉為理解，開闢共識。",
+      "category": "Relationships",
+      "tags": [
+        "溝通",
+        "僵局",
+        "真誠"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010832118",
+        "eslite": "https://www.eslite.com/Search?keyword=%E9%AB%98%E9%9B%A3%E5%BA%A6%E6%BA%9D%E9%80%9A%EF%BC%9A%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%9C%80%E7%86%B1%E9%96%80%E7%9A%84%E6%BA%9D%E9%80%9A%E8%AA%B2%EF%BC%8C%E5%9C%A8%E5%B0%8D%E7%AB%8B%E7%9A%84%E4%B8%96%E7%95%8C%E8%A3%A1%EF%BC%8C%E5%A6%82%E4%BD%95%E5%96%84%E7%94%A8%E6%BA%9D%E9%80%9A%E6%89%93%E7%A0%B4%E5%83%B5%E5%B1%80",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E9%AB%98%E9%9B%A3%E5%BA%A6%E6%BA%9D%E9%80%9A%EF%BC%9A%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%9C%80%E7%86%B1%E9%96%80%E7%9A%84%E6%BA%9D%E9%80%9A%E8%AA%B2%EF%BC%8C%E5%9C%A8%E5%B0%8D%E7%AB%8B%E7%9A%84%E4%B8%96%E7%95%8C%E8%A3%A1%EF%BC%8C%E5%A6%82%E4%BD%95%E5%96%84%E7%94%A8%E6%BA%9D%E9%80%9A%E6%89%93%E7%A0%B4%E5%83%B5%E5%B1%80"
+      }
+    },
+    {
+      "id": "3ac60300-2797-4959-b06f-9b572f8e2702",
+      "title": "蛤蟆先生去看心理師",
+      "author": "羅伯．狄保德",
+      "isbn": "9789576587399",
+      "coverImage": "/img/books/zh-TW/9789576587399.jpg",
+      "quote": "真正的勇敢，不在於逃避陰影，而在於直視內在的蛤蟆，讓童年的枷鎖蛻變為自我接納的羽翼。",
+      "category": "Relationships",
+      "tags": [
+        "心理諮商",
+        "自我成長",
+        "情緒智商"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/E050119888",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%B8%AB%EF%BC%88%E6%9A%A2%E9%8A%B7300%E8%90%AC%E5%86%8A%EF%BC%81%E8%8B%B1%E5%9C%8B%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E7%B6%93%E5%85%B8%EF%BC%89%20(%E9%9B%BB%E5%AD%90%E6%9B%B8)",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%B8%AB%EF%BC%88%E6%9A%A2%E9%8A%B7300%E8%90%AC%E5%86%8A%EF%BC%81%E8%8B%B1%E5%9C%8B%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E7%B6%93%E5%85%B8%EF%BC%89%20(%E9%9B%BB%E5%AD%90%E6%9B%B8)"
+      }
+    },
+    {
+      "id": "36a3dd2b-2275-4583-9994-da1d71f5e7f3",
+      "title": "親密關係Ⅰ：別將伴侶當成應該滿足你需求的人",
+      "author": "克里斯多福‧孟",
+      "isbn": "9789864064601",
+      "coverImage": "/img/books/zh-TW/9789864064601.jpg",
+      "quote": "親密關係的戰場，不在你與伴侶之間，而在你內心。別再向外索求，只有療癒舊傷，愛才能真正綻放。",
+      "category": "Relationships",
+      "tags": [
+        "親密關係",
+        "內在療癒",
+        "自我負責"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011015522",
+        "eslite": "https://www.eslite.com/Search?keyword=%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82%E2%85%A0%EF%BC%9A%E5%88%A5%E5%B0%87%E4%BC%B4%E4%BE%B6%E7%95%B6%E6%88%90%E6%87%89%E8%A9%B2%E6%BB%BF%E8%B6%B3%E4%BD%A0%E9%9C%80%E6%B1%82%E7%9A%84%E4%BA%BA",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82%E2%85%A0%EF%BC%9A%E5%88%A5%E5%B0%87%E4%BC%B4%E4%BE%B6%E7%95%B6%E6%88%90%E6%87%89%E8%A9%B2%E6%BB%BF%E8%B6%B3%E4%BD%A0%E9%9C%80%E6%B1%82%E7%9A%84%E4%BA%BA"
+      }
+    },
+    {
+      "id": "673263f2-744d-4b7d-9049-7802b21d5394",
+      "title": "愛的藝術：心理學大師跨時代不朽經典，一本學習如何去愛的聖經",
+      "author": "埃里希．佛洛姆",
+      "isbn": "9786263148154",
+      "coverImage": "/img/books/zh-TW/9786263148154.jpg",
+      "quote": "愛從不是被動的擁有，而是主動的行動。與其渴望被愛，不如勇敢去愛，活出豐盛生命。",
+      "category": "Relationships",
+      "tags": [
+        "愛之實踐",
+        "關係課題",
+        "內在勇氣"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0011021305",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%84%9B%E7%9A%84%E8%97%9D%E8%A1%93%EF%BC%88%E7%B5%A6%E4%BD%A0%E5%8B%87%E6%B0%A3%E7%89%88%EF%BC%89%EF%BC%9A%E5%BF%83%E7%90%86%E5%AD%B8%E5%A4%A7%E5%B8%AB%E8%B7%A8%E6%99%82%E4%BB%A3%E4%B8%8D%E6%9C%BD%E7%B6%93%E5%85%B8%EF%BC%8C%E4%B8%80%E6%9C%AC%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E5%8E%BB%E6%84%9B%E7%9A%84%E8%81%96%E7%B6%93",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%84%9B%E7%9A%84%E8%97%9D%E8%A1%93%EF%BC%88%E7%B5%A6%E4%BD%A0%E5%8B%87%E6%B0%A3%E7%89%88%EF%BC%89%EF%BC%9A%E5%BF%83%E7%90%86%E5%AD%B8%E5%A4%A7%E5%B8%AB%E8%B7%A8%E6%99%82%E4%BB%A3%E4%B8%8D%E6%9C%BD%E7%B6%93%E5%85%B8%EF%BC%8C%E4%B8%80%E6%9C%AC%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E5%8E%BB%E6%84%9B%E7%9A%84%E8%81%96%E7%B6%93"
+      }
+    },
+    {
+      "id": "6a6a5c09-ed23-4d28-a90b-24a9cf655234",
+      "title": "情緒勒索：遇到利用恐懼、責任與罪惡感控制你的人，該怎麼辦？",
+      "author": "蘇珊‧佛沃,",
+      "isbn": "9789861372402",
+      "coverImage": "/img/books/zh-TW/9789861372402.jpg",
+      "quote": "當恐懼、責任與罪惡感如迷霧般籠罩，真正的勇氣不是掙扎於霧中，而是撥開迷霧，看清自我，重新奪回生命的主控權。",
+      "category": "Relationships",
+      "tags": [
+        "情緒勒索",
+        "界線",
+        "擺脫控制"
+      ],
+      "sourceLinks": {
+        "booksComTw": "https://www.books.com.tw/products/0010762199",
+        "eslite": "https://www.eslite.com/Search?keyword=%E6%83%85%E7%B7%92%E5%8B%92%E7%B4%A2%E3%80%94%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B720%E5%B9%B4%E7%B6%93%E5%85%B8%E3%80%95%EF%BC%9A%E9%81%87%E5%88%B0%E5%88%A9%E7%94%A8%E6%81%90%E6%87%BC%E3%80%81%E8%B2%AC%E4%BB%BB%E8%88%87%E7%BD%AA%E6%83%A1%E6%84%9F%E6%8E%A7%E5%88%B6%E4%BD%A0%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F",
+        "kobo": "https://www.kobo.com/tw/zh/search?query=%E6%83%85%E7%B7%92%E5%8B%92%E7%B4%A2%E3%80%94%E5%85%A8%E7%90%83%E6%9A%A2%E9%8A%B720%E5%B9%B4%E7%B6%93%E5%85%B8%E3%80%95%EF%BC%9A%E9%81%87%E5%88%B0%E5%88%A9%E7%94%A8%E6%81%90%E6%87%BC%E3%80%81%E8%B2%AC%E4%BB%BB%E8%88%87%E7%BD%AA%E6%83%A1%E6%84%9F%E6%8E%A7%E5%88%B6%E4%BD%A0%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"
+      }
+    }
+  ]
+}
